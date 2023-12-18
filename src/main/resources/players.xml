@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<party game-master="Larian Studios">
+    <players>
+        <player>
+            <name>Astarion</name>
+            <class>Rogue</class>
+            <race>Elf</race>
+            <background>Charlatan</background>
+            <level>5</level>
+            <weapons>
+                <weapon>
+                    <weapon-name>RAPIER</weapon-name>
+                    <damage>12</damage>
+                </weapon>
+                <weapon>
+                    <weapon-name>SHORT_KNIFE</weapon-name>
+                    <damage>8</damage>
+                </weapon>
+            </weapons>
+        </player>
+        <player>
+            <name>Shadowheart</name>
+            <class>Cleric</class>
+            <race>Half-elf</race>
+            <background>Acolyte</background>
+            <level>5</level>
+            <weapons>
+                <weapon>
+                    <weapon-name>GLAIVE</weapon-name>
+                    <damage>12</damage>
+                </weapon>
+            </weapons>
+        </player>
+        <player>
+            <name>Lae'zel</name>
+            <class> Fighter</class>
+            <race>Githyanki</race>
+            <background>Soldier</background>
+            <level>5</level>
+            <weapons>
+                <weapon>
+                    <weapon-name>AXE</weapon-name>
+                    <damage>17</damage>
+                </weapon>
+            </weapons>
+        </player>
+        <player>
+            <name>Halsin</name>
+            <class>Druid</class>
+            <race>Wood Elf</race>
+            <background>Outlander</background>
+            <level>5</level>
+            <weapons>
+                <weapon>
+                    <weapon-name>GLAIVE</weapon-name>
+                    <damage>12</damage>
+                </weapon>
+            </weapons>
+        </player>
+    </players>
+</party>
